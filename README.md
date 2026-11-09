@@ -6,7 +6,6 @@
 🏆 2022年奥林匹克杯获得者 <br />
 
 [![游魂博客](https://img.shields.io/badge/%E6%B8%B8%E9%AD%82%E5%8D%9A%E5%AE%A2-www.iyouhun.com-blue "游魂博客")](https://www.iyouhun.com/ "游魂博客")
-[![游魂的网络日志](https://img.shields.io/badge/%E6%B8%B8%E9%AD%82%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97-www.shen.ee-red "游魂的网络日志")](https://www.shen.ee/ "游魂的网络日志")
 
 
 <p align = "center">
